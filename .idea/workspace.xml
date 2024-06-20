@@ -5,23 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0bc397af-4d21-4c6f-8d54-9d6f0a37200e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/KotlinBegin.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/dataTypes/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forLes/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ifing/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/operators/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/when/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whileLes/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array/Main.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/complexHW/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +43,7 @@
     "Kotlin.MainKt (5).executor": "Run",
     "Kotlin.MainKt.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true"
   }
 }]]></component>
@@ -66,16 +52,9 @@
       <recent name="C:\Users\Linad\IdeaProjects\Spring6267\Seminar05\example2_sem5\KotlinBegin\src\dataTypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (5)">
+  <component name="RunManager" selected="Kotlin.MainKt (1)">
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="operators.MainKt" />
-      <module name="KotlinBegin" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ifing.MainKt" />
+      <option name="MAIN_CLASS_NAME" value="array.MainKt" />
       <module name="KotlinBegin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -102,13 +81,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MainKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="complexHW.MainKt" />
+      <module name="KotlinBegin" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt (1)" />
+        <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.MainKt (5)" />
         <item itemvalue="Kotlin.MainKt (4)" />
         <item itemvalue="Kotlin.MainKt (3)" />
-        <item itemvalue="Kotlin.MainKt (2)" />
-        <item itemvalue="Kotlin.MainKt (1)" />
       </list>
     </recent_temporary>
   </component>
