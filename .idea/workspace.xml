@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0bc397af-4d21-4c6f-8d54-9d6f0a37200e" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/array/Main.kt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/complexHW/Main.kt" afterDir="false" />
+    <list default="true" id="0bc397af-4d21-4c6f-8d54-9d6f0a37200e" name="Changes" comment="add 3 HW">
+      <change afterPath="$PROJECT_DIR$/src/arrayInArray/Main.kt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -34,25 +33,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Kotlin.MainKt (1).executor": "Run",
-    "Kotlin.MainKt (2).executor": "Run",
-    "Kotlin.MainKt (3).executor": "Run",
-    "Kotlin.MainKt (4).executor": "Run",
-    "Kotlin.MainKt (5).executor": "Run",
-    "Kotlin.MainKt.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Kotlin.MainKt (1).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (2).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (3).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (4).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt (5).executor&quot;: &quot;Run&quot;,
+    &quot;Kotlin.MainKt.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\Linad\IdeaProjects\Spring6267\Seminar05\example2_sem5\KotlinBegin\src\dataTypes" />
     </key>
   </component>
-  <component name="RunManager" selected="Kotlin.MainKt (1)">
+  <component name="RunManager" selected="Kotlin.MainKt (2)">
     <configuration name="MainKt (1)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="array.MainKt" />
       <module name="KotlinBegin" />
@@ -60,8 +59,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MainKt (3)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="when.MainKt" />
+    <configuration name="MainKt (2)" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arrayInArray.MainKt" />
       <module name="KotlinBegin" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -90,11 +89,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Kotlin.MainKt (2)" />
         <item itemvalue="Kotlin.MainKt (1)" />
         <item itemvalue="Kotlin.MainKt" />
         <item itemvalue="Kotlin.MainKt (5)" />
         <item itemvalue="Kotlin.MainKt (4)" />
-        <item itemvalue="Kotlin.MainKt (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -107,6 +106,19 @@
       <option name="presentableId" value="Default" />
       <updated>1718526998166</updated>
     </task>
+    <task id="LOCAL-00001" summary="add 3 HW">
+      <option name="closed" value="true" />
+      <created>1718901441370</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718901441370</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="add 3 HW" />
+    <option name="LAST_COMMIT_MESSAGE" value="add 3 HW" />
   </component>
 </project>
